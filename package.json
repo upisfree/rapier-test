@@ -1,0 +1,23 @@
+{
+  "name": "rapier-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@a-type/rapier3d-node": "^0.11.1",
+    "@dimforge/rapier3d": "^0.12.0",
+    "@dimforge/rapier3d-compat": "^0.12.0",
+    "@splinetool/runtime": "^1.0.54",
+    "esm-seedrandom": "^3.0.5",
+    "node-three-gltf": "^1.5.0",
+    "three": "^0.161.0",
+    "vhacd-js": "^0.0.1",
+    "ws": "^8.16.0"
+  }
+}
